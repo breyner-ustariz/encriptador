@@ -129,7 +129,7 @@ textarea {
 }
 #copiar {
    position: absolute;
-   top: 100px;
+   top: 110px;
    z-index: 1000;
    right: 0;
    display: none;
