@@ -84,14 +84,17 @@ button:hover{
 .container-text-show {
    padding: 20px;
    width: 90%;
-   height: 45vh;
+   height: 60%;
    margin: 0 auto;
    border-radius: 10px;
    border: 1px solid rgb(161, 161, 161);
    margin-bottom: 20px;
 }
+.container-text-show .container-img {
+   width: 100%;
+}
 .container-text-show img {
-   width: 48%;
+   width: 200px;
    display: block;
    margin: 0 auto;
    
