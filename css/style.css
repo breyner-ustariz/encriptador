@@ -129,7 +129,7 @@ textarea {
 }
 #copiar {
    position: absolute;
-   top: 170px;
+   top: 100px;
    z-index: 1000;
    right: 0;
    display: none;
@@ -137,7 +137,7 @@ textarea {
 }
 .copiado {
    position: absolute;
-   top: 170px;
+   top: 100px;
    z-index: 1000;
    right: 0;
    display: none;
